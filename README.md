@@ -56,6 +56,9 @@ Building AI Kharcha hisab tool includes below stages:
 ### The below are guidelines followed to make code and react components scalable, maintainable, reusuable and secure
 
 
+### React Design patterns used
+
+
 ### problems solved
 
 
