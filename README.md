@@ -1,4 +1,4 @@
-1. [personal finaance dashboar](https://personal-finance-dashboard-5b3q-87ouhqn6o.vercel.app/)
+1. [personal finance dashboard](https://personal-finance-dashboard-5b3q-87ouhqn6o.vercel.app/)
 
 
 # Introduction
