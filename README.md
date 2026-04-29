@@ -46,12 +46,15 @@ Building AI Kharcha hisab tool includes below stages:
 
 - website/webapp design - figma, exclidraw
 
-- AI Code Assistant/Agent - Cursor
+- AI Code Assistant/Agent -
 
 - version control - git and github
 
 ### How to run locally
 
+
+### token-efficient prompt engineering techniques
+1.  
 
 ### The below are guidelines followed to make code and react components scalable, maintainable, reusuable and secure
 
@@ -63,4 +66,9 @@ Building AI Kharcha hisab tool includes below stages:
 
 
 ### What I learnt?
+
+
+### future Developments
+1. Reading bank statements from bank account in real time and then have all features
+   mentioned in project.
 
